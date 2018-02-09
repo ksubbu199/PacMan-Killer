@@ -1,0 +1,3 @@
+/home/subbu/s4/graphics/assignment/20171406_Assignment1/src/CMakeFiles/edit_cache.dir
+/home/subbu/s4/graphics/assignment/20171406_Assignment1/src/CMakeFiles/rebuild_cache.dir
+/home/subbu/s4/graphics/assignment/20171406_Assignment1/src/CMakeFiles/graphics_asgn1.dir
