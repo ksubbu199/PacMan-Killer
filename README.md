@@ -1,7 +1,7 @@
 Pac-Man Killer Game
 =========================
 
-#Controls
+**Controls**
 
 A		- Move left
 D		- Move right
@@ -12,28 +12,28 @@ ScrollUp/Z	- Zoom-in
 ScrollDown/C	- Zoom-out
 Mouse Dragging	- Move up/right/left
 
-#Features Implemented
+**Features Implemented**
 
-V1.0:
+*V1.0:*
 - Flying balls
 - Floor
 - Player
 - Flying balls with slopes 
 - Accompanied physics
 
-v2.0:
+*v2.0:*
 - Water
 - Trampoline
 - Zooming
 - Panning
 - Accompanied physics
 
-v3.0:
+*v3.0:*
 - Moving porcupines
 - Magnet(both directions)
 - Accompanied physics
 
-v4.0:
+*v4.0:*
 - Infinite world
 - Lives
 - Levels 
